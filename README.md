@@ -1,5 +1,4 @@
 ![image](https://github.com/Anastasios3/banking-web-app/assets/117446378/9c01e405-8c56-4f73-b3d3-3b4f1d24fdbb)
-
 # Banking Web App
 
 Welcome to the Banking Web App! This project is a simple yet functional web-based banking application built entirely using HTML, CSS, and JavaScript.
@@ -28,7 +27,14 @@ Check out the live version of the app here: [Banking Web App](https://anastasios
 2. **Running the App:**
    - Open `index.html` in your web browser to start using the app.
 
-3. **Features:**
+3. **Login Credentials:**
+   - Use the following credentials to log in:
+     - **Username:** Jonas Schmedtmann, **PIN:** 1111
+     - **Username:** Jessica Davis, **PIN:** 2222
+     - **Username:** Steven Thomas Williams, **PIN:** 3333
+     - **Username:** Sarah Smith, **PIN:** 4444
+
+4. **Features:**
    - **Login:** Enter your credentials to access your account.
    - **View Balance:** Check your current account balance.
    - **Make Transfers:** Transfer funds by entering the recipient's account details and the amount.
@@ -44,6 +50,3 @@ Check out the live version of the app here: [Banking Web App](https://anastasios
 
 For any inquiries or job opportunities, feel free to reach out.
 
----
-
-Feel free to modify this README file as needed. Let me know if you need any further adjustments or additions!
