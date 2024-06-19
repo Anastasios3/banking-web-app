@@ -29,7 +29,7 @@ Check out the live version of the app here: [Banking Web App](https://anastasios
 
 3. **Login Credentials:**
    - Use the following credentials to log in:
-     - **Username:** Jonas Schmedtmann, **PIN:** 1111
+     - **Username:** Anastasios Tatarakis, **PIN:** 1111
      - **Username:** Jessica Davis, **PIN:** 2222
      - **Username:** Steven Thomas Williams, **PIN:** 3333
      - **Username:** Sarah Smith, **PIN:** 4444
